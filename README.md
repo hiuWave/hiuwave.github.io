@@ -1,1 +1,1 @@
-'# hiuWave.com' 
+Landing Page hiuWave.com
