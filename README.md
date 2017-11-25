@@ -1,1 +1,2 @@
-# landing page for hiuWave.com
+# hiuwave.github.io
+  landing page for hiuWave.com
