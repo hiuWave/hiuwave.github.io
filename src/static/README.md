@@ -1,3 +1,3 @@
-# frizadiga.github.io
+# hiuwave.github.io
 
-> frizadiga personal site
+>  landing page for **hiuWave.com**
