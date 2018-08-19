@@ -8,7 +8,7 @@
 
 <style>
 #hiuwave-img{
-  width: 20vmax;
+  width: 20vh;
   opacity: .1;
   filter: brightness(0);
 }
