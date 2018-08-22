@@ -43,12 +43,14 @@ export default {
   font-size: 50px;
   color: #35495e;
   letter-spacing: 1px;
+  margin-top: .2em;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 16px;
-  color: #526488;
+  /*color: #526488;*/
+  color: grey;
   letter-spacing: 1px;
   word-spacing: 1px;
   padding-bottom: 15px;
