@@ -1,17 +1,3 @@
-<template>
-  <div class="container">
-    <div>
-      <hiu-logo/>
-      <h1 class="title">
-        <b>hiu</b>Wave
-      </h1>
-      <h2 class="subtitle">
-        {{subtitle}}
-      </h2>  
-    </div>
-  </div>
-</template>
-
 <script>
 import hiuLogo from '~/components/hiu-logo.vue'
 
@@ -25,6 +11,20 @@ export default {
   })
 }
 </script>
+
+<template>
+  <div class="container">
+    <div>
+      <hiu-logo/>
+      <h1 class="title">
+        <b>hiu</b>Wave
+      </h1>
+      <h2 class="subtitle">
+        {{subtitle}}
+      </h2>  
+    </div>
+  </div>
+</template>
 
 <style scoped>
 .container {

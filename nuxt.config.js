@@ -4,9 +4,9 @@ module.exports = {
 
   css: [
   // ** Transitions Routes
-    'assets/main.css',
+    'assets/main.css'
   ],
-  
+
   // ** Headers of the page
   head: {
     title: 'hiuwave',
@@ -19,10 +19,10 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/hiu-favicon.png' }
     ]
   },
-  
+
   // ** Customize the progress bar color
   loading: { color: '#35495e' },
-  
+
   // ** Build configuration
   build: {
     // ** Run ESLint on save
