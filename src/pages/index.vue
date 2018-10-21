@@ -2,7 +2,7 @@
 import hiuLogo from '~/components/hiu-logo.vue'
 
 export default {
-  // transition: '',
+  transition: 'page',
   components: {
     hiuLogo
   },
