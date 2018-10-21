@@ -13,7 +13,7 @@ module.exports = {
   layoutTransition: {
     name: 'layout',
     mode: 'out-in'
-  }
+  },
 
   // ** Headers of the page
   head: {
