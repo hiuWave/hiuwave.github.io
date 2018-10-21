@@ -41,7 +41,8 @@ export default {
   display: block;
   font-weight: 100;
   font-size: 50px;
-  color: #35495e;
+  // color: #35495e;
+  color: #bbbbbb;
   letter-spacing: 1px;
   margin-top: .2em;
 }

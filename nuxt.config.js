@@ -1,4 +1,7 @@
 module.exports = {
+  // ** Mode - Single Page Application mode
+  mode: 'spa',
+
   // ** Config
   srcDir: 'src/',
 
